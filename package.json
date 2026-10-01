@@ -1,0 +1,15 @@
+{
+  "name": "essay-evaluator",
+  "version": "1.0.0",
+  "description": "Smart Student Mentor Essay Evaluation Backend",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node server.js"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.0",
+    "express": "^4.21.2"
+  }
+}

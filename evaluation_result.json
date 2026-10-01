@@ -1,0 +1,140 @@
+{
+  "essay": {
+    "wordCount": 80,
+    "sentenceCount": 7,
+    "paragraphCount": 6
+  },
+  "basicAnalysis": {
+    "wordCount": 80,
+    "sentenceCount": 7,
+    "paragraphCount": 6,
+    "averageSentenceLength": 11.43,
+    "uniqueWordCount": 64,
+    "vocabularyDiversity": 0.8,
+    "longWordPercentage": 45,
+    "readability": "Easy",
+    "indicators": [
+      "Essay is relatively short.",
+      "Sentence length is generally balanced.",
+      "Vocabulary shows reasonable variety."
+    ]
+  },
+  "semanticAnalysis": {
+    "sentenceTransformation": {
+      "latestSentenceCount": 7,
+      "previousSentenceCount": 11,
+      "sentences": [
+        {
+          "original": "Technology has changed the way students learn and communicate",
+          "transformed": "chang communicate learn student technology way"
+        },
+        {
+          "original": "Today, students can access educational videos, online courses, digital\nlibraries and artificial intelligence tools from anywhere",
+          "transformed": "access anywhere artificial course digital educational intelligence library online student today tool video"
+        },
+        {
+          "original": "Technology makes learning faster and more convenient",
+          "transformed": "convenient faster learn make more technology"
+        },
+        {
+          "original": "However, students\nshould not depend completely on technology",
+          "transformed": "completely depend however not student technology"
+        },
+        {
+          "original": "They should also develop their own thinking, creativity and communication\nskills",
+          "transformed": "also communication creativity develop own skill think"
+        },
+        {
+          "original": "In my opinion, technology is a powerful tool for education when it is used\nresponsibly",
+          "transformed": "education opinion powerful responsibly technology tool used when"
+        },
+        {
+          "original": "Students should use technology to improve their knowledge while maintaining\ndiscipline and independent thinking",
+          "transformed": "discipline improve independent knowledge maintain student technology think use while"
+        }
+      ]
+    },
+    "sentenceSimilarity": 0.278,
+    "semanticSimilarity": 0.265,
+    "latestMeaningfulWordCount": 46,
+    "previousMeaningfulWordCount": 59,
+    "newMeaningfulWords": 24,
+    "repeatedMeaningfulWords": 22,
+    "newWords": [
+      "chang",
+      "communicate",
+      "way",
+      "anywhere",
+      "artificial",
+      "course",
+      "intelligence",
+      "library",
+      "today",
+      "tool",
+      "convenient",
+      "faster",
+      "completely",
+      "depend",
+      "creativity",
+      "own",
+      "opinion",
+      "powerful",
+      "when",
+      "discipline",
+      "improve",
+      "knowledge",
+      "maintain",
+      "while"
+    ],
+    "vocabularyGrowthPercentage": 40.68,
+    "latestImportantWords": [
+      "technology",
+      "student",
+      "learn",
+      "tool",
+      "think",
+      "chang",
+      "communicate",
+      "way",
+      "access",
+      "anywhere"
+    ],
+    "previousImportantWords": [
+      "student",
+      "technology",
+      "learn",
+      "use",
+      "education",
+      "because",
+      "many",
+      "information",
+      "however",
+      "much"
+    ],
+    "growthLevel": "Improving"
+  },
+  "aiAnalysis": {
+    "scores": {
+      "criticalThinking": 48,
+      "creativity": 100,
+      "communication": 85,
+      "organization": 75,
+      "argumentQuality": 55
+    },
+    "overallScore": 73,
+    "performanceLevel": "Good",
+    "suggestions": [
+      "Develop stronger reasoning by explaining why your ideas are important and supporting them with evidence.",
+      "Support your arguments with specific examples, evidence and logical explanations."
+    ]
+  },
+  "finalEvaluation": {
+    "overallScore": 73,
+    "performanceLevel": "Good",
+    "growthLevel": "Improving",
+    "suggestions": [
+      "Develop stronger reasoning by explaining why your ideas are important and supporting them with evidence.",
+      "Support your arguments with specific examples, evidence and logical explanations."
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "basic_analysis": {
+    "word_count": 82,
+    "sentence_count": 8,
+    "paragraph_count": 3,
+    "average_sentence_length": 10.25,
+    "vocabulary_diversity": 0.74,
+    "score": 90
+  },
+  "semantic_analysis": {
+    "model": "all-MiniLM-L6-v2",
+    "embedding_dimensions": 384,
+    "sentence_comparisons": [
+      {
+        "current_sentence": "Technology has changed the way students learn and communicate",
+        "previous_similar_sentence": "Students should use technology for studying",
+        "similarity": 0.71
+      },
+      {
+        "current_sentence": "Students can use online platforms to access educational resources\nand learn new skills",
+        "previous_similar_sentence": "Students can watch videos and read articles online",
+        "similarity": 0.67
+      },
+      {
+        "current_sentence": "Artificial intelligence can also help students\nunderstand difficult topics",
+        "previous_similar_sentence": "Technology is useful for students because it provides information\nquickly",
+        "similarity": 0.52
+      },
+      {
+        "current_sentence": "However, students should not completely depend on technology",
+        "previous_similar_sentence": "Students should use technology for studying",
+        "similarity": 0.76
+      },
+      {
+        "current_sentence": "They should develop their own thinking and problem solving skills",
+        "previous_similar_sentence": "They should also\nimprove their communication and problem solving skills",
+        "similarity": 0.83
+      },
+      {
+        "current_sentence": "Regular reading, writing and discussion can improve communication",
+        "previous_similar_sentence": "They should also\nimprove their communication and problem solving skills",
+        "similarity": 0.45
+      },
+      {
+        "current_sentence": "In my opinion, technology is useful when students use it properly",
+        "previous_similar_sentence": "Technology is useful for students because it provides information\nquickly",
+        "similarity": 0.85
+      },
+      {
+        "current_sentence": "The future of education will depend on a balance between technology\nand human thinking",
+        "previous_similar_sentence": "Technology makes education easier and faster",
+        "similarity": 0.61
+      }
+    ],
+    "overall_similarity": 0.68,
+    "semantic_score": 68
+  },
+  "ai_analysis": {
+    "final_score": 79,
+    "performance": "GOOD",
+    "improvement_status": "IMPROVEMENT DETECTED",
+    "suggestions": [
+      "Add more supporting ideas and examples.",
+      "Your ideas show development compared with the previous essay."
+    ]
+  },
+  "final_evaluation": {
+    "score": 79,
+    "performance": "GOOD",
+    "improvement_status": "IMPROVEMENT DETECTED",
+    "suggestions": [
+      "Add more supporting ideas and examples.",
+      "Your ideas show development compared with the previous essay."
+    ]
+  }
+}
